@@ -1,0 +1,1 @@
+<p><?php esc_html_e( 'Here you can configure the settings of PayPal.', 'ukulele' ) ?></p>
