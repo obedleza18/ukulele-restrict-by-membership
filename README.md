@@ -44,3 +44,5 @@ This Plugin contains a Membership Controller Class which takes care of everythin
      *          this Pages, the administrator needs to create he Pages and assign the URL as Landing
      *          Page. Landing Pages should have Tags (or not) assigned with level 0.
      */
+
+After installing the Plugin. You will see more information of how to set the restriction to content on Settings -> Ukulele Membership Settings.
